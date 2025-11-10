@@ -1,0 +1,26 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Addressables/Cache
+Assets/StreamingAssets/aa/*
+
+# 🔥 대용량 산출물 제외(필요시 샘플만 커밋)
+Assets/StreamingAssets/unity_csv/
+Assets/StreamingAssets/npz/
+Assets/StreamingAssets/processed/
+Assets/StreamingAssets/videos/
